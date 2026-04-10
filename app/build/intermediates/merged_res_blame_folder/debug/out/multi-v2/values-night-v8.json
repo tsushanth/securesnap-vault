@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.factory.securesnapvault.app-mergeDebugResources-73:/values-night-v8/values-night-v8.xml",
+            "map": [
+                {
+                    "source": "/Users/sushanthtiruvaipati/.gradle/caches/transforms-3/9430333839efa1f6088c177dd9d46a23/transformed/core-splashscreen-1.0.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "85",
+                        "endOffsets": "136"
+                    }
+                },
+                {
+                    "source": "/Users/sushanthtiruvaipati/.gradle/caches/transforms-3/5c5f7c6de7640bef4d5fdbb070566b52/transformed/appcompat-1.6.1/res/values-night-v8/values-night-v8.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,125,209,293,389,491,593,687",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "120,204,288,384,486,588,682,771"
+                    },
+                    "to": {
+                        "startLines": "3,4,5,6,7,8,9,10",
+                        "startColumns": "4,4,4,4,4,4,4,4",
+                        "startOffsets": "141,211,295,379,475,577,679,773",
+                        "endColumns": "69,83,83,95,101,101,93,88",
+                        "endOffsets": "206,290,374,470,572,674,768,857"
+                    }
+                }
+            ]
+        }
+    ]
+}
